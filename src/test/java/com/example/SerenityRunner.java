@@ -11,4 +11,5 @@ import org.junit.runner.RunWith;
     glue = "com.example",
     stepNotifications = true,
     tags = "")
+
 public class SerenityRunner {}
